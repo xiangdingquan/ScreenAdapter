@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:layout_width="200pt"
+        android:layout_height="100pt"
+        android:text="@string/app_name"
+        android:textSize="20pt" />
+
+    <Button
+        android:layout_width="300pt"
+        android:layout_height="150pt"
+        android:layout_marginTop="50pt"
+        android:text="@string/app_name"
+        android:textSize="30pt" />
+
+
+    <Button
+        android:layout_width="400pt"
+        android:layout_height="200pt"
+        android:layout_marginTop="50pt"
+        android:text="@string/app_name"
+        android:textSize="40pt" />
+
+    <Button
+        android:layout_width="500pt"
+        android:layout_height="250pt"
+        android:layout_marginTop="50pt"
+        android:text="@string/app_name"
+        android:textSize="50pt" />
+
+
+    <Button
+        android:layout_width="600pt"
+        android:layout_height="300pt"
+        android:layout_marginTop="50pt"
+        android:text="@string/app_name"
+        android:textSize="60pt" />
+
+</LinearLayout>
