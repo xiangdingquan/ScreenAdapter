@@ -21,5 +21,6 @@ public class ScreenApp extends Application {
         super.onCreate();
         ScreenAdaper.getInstance(this,720).activate();
 
+
     }
 }
